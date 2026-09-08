@@ -1,0 +1,6 @@
+{
+  "name": "TikSaver",
+  "description": "Save TikTok videos and photo slideshows without watermarks directly to your phone gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
